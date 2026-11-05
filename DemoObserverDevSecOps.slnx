@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CollectionTools/CollectionTools.csproj" />
+  <Project Path="DemoObserverDevSecOps.Patterns/DemoObserverDevSecOps.Patterns.csproj" />
+  <Project Path="DemoObserverDevSecOps/DemoObserverDevSecOps.csproj" />
+</Solution>
